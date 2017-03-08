@@ -1,6 +1,6 @@
 {
   "name": "rbush",
-  "version": "0.0.1",
+  "version": "2.0.2-rc0",
   "homepage": "https://github.com/mourner/rbush",
   "description": "RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles",
   "main": "rbush.js",
